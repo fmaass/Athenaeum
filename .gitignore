@@ -9,3 +9,4 @@ docker-compose.yml
 *.tsv
 *_raw.json
 *_debug.json
+.venv-test/
